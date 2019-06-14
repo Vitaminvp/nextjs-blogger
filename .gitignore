@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+.next
+.ts-node
+.env
+node_modules
+static
+vendors
+*.manifest.json
+/page.html
